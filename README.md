@@ -1,1 +1,1 @@
-"# papyrus_explorator" 
+# papyrus_explorator
